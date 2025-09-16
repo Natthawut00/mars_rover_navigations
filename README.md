@@ -28,7 +28,7 @@ The code is modular, OOP-based, and easily extensible.
 
 ### Setup
 ```bash
-git clone https://github.com/Natthawut00/mars_rover_navigation.git
+git clone https://github.com/Natthawut00/mars_rover_navigations.git
 cd mars_rover_navigation
 mvn clean install
 ```
